@@ -4,4 +4,6 @@ function addUser(){
 
     localStorage.setItem("Player1" , player1);
     localStorage.setItem("Player2" , player2);
+
+    window.location = "2index.html";
 }
